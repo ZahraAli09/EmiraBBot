@@ -1,0 +1,4 @@
+.env
+myenv310/
+Data/
+vectorstore/
